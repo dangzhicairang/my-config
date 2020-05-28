@@ -4,7 +4,7 @@ xxl:
       addresses: http://localhost:10302/xxl
     accessToken:
     executor:
-      appname: service4xxl
+      appname: test
       address:
       ip:
       port: 9999
