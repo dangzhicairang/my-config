@@ -1,7 +1,7 @@
 xxl:
   job:
     admin:
-      addresses: http://localhost:10301/xxl
+      addresses: http://localhost:10302/xxl
     accessToken:
     executor:
       appname: service4xxl
