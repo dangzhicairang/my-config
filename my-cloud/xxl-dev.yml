@@ -1,0 +1,12 @@
+xxl:
+  job:
+    admin:
+      addresses: http://localhost:10301/xxl
+    accessToken:
+    executor:
+      appname: service4xxl
+      address:
+      ip:
+      port: 9999
+      logpath:
+      logretentiondays: 3
