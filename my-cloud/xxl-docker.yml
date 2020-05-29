@@ -1,0 +1,12 @@
+xxl:
+  job:
+    admin:
+      addresses: http://my-zuul:10302/xxl
+    accessToken:
+    executor:
+      appname: default
+      address:
+      ip:
+      port: 9999
+      logpath:
+      logretentiondays: 3
