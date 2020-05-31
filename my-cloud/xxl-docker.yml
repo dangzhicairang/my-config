@@ -1,7 +1,7 @@
 xxl:
   job:
     admin:
-      addresses: http://my-zuul:10302/xxl
+      addresses: http://my-xxl:10310
     accessToken:
     executor:
       appname: default
