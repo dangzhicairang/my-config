@@ -1,0 +1,4 @@
+system:
+  activemq:
+    consumer:
+      clientId: ${random.int}
