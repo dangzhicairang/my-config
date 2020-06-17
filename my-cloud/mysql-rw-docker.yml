@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    jdbc-url: jdbc:mysql://mysql-master:3306/copy_test?characterEncoding=utf-8
+    username: test
+    password: test
+    slave1:
+      jdbc-url: jdbc:mysql://mysql-slave1:3306/copy_test?characterEncoding=utf-8
+      username: test
+      password: test
+    slave2:
+      jdbc-url: jdbc:mysql://mysql-slave2:3306/copy_test?characterEncoding=utf-8
+      username: test
+      password: test

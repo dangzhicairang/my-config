@@ -1,0 +1,9 @@
+com:
+  xsn:
+    activemq:
+      swagger:
+        scan: com.xsn.controller
+        title: swagger
+        description: swagger
+        termsOfServiceUrl: http://xsn.com
+        version: V1.0
